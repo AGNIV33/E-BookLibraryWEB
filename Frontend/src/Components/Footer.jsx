@@ -42,7 +42,8 @@ function Footer() {
     <p>
       BOOKBYTES pvt Ltd.
       <br />
-      Providing online E-books since 2024
+      Providing online E-books since 2024.
+      Created by- AGNIV SARKAR.
     </p>
   </aside>
   <nav className="md:place-self-center md:justify-self-end">
